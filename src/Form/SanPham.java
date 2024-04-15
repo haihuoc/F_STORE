@@ -605,7 +605,7 @@ public class SanPham extends javax.swing.JInternalFrame {
         }
         else
         {
-            JOptionPane.showMessageDialog(this, "Không tìm thấy khách hàng!","Thông báo",JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(this, "Không tìm thấy !","Thông báo",JOptionPane.INFORMATION_MESSAGE);
         }
         
     }//GEN-LAST:event_jButtonChangeMousePressed
